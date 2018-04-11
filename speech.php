@@ -20,7 +20,7 @@ $speech = new SpeechClient([
 ]);
 
 # The name of the audio file to transcribe
-$fileName = __DIR__ . '/resources/audio.raw';
+$fileName = __DIR__ . '/resources/test.ogg';
 
 # The audio file's encoding and sample rate
 $options = [
@@ -30,7 +30,8 @@ $options = [
 
 # Detects speech in the audio file
 $results = $speech->recognize(fopen($fileName, 'r'), $options);
-
+var_dump($results);
 foreach ($results as $result) {
     echo 'Transcription: ' . $result->alternatives()[0]['transcript'] . PHP_EOL;
+//    $question = $result->alternatives()[0]['transcript'] . PHP_EOL;
 }
