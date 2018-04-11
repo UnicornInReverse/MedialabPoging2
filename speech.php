@@ -12,7 +12,6 @@ $config = [
     'projectId' => $projectId,
 ];
 
-
 # Instantiates a client
 $speech = new SpeechClient([
     'projectId' => $projectId,
@@ -20,7 +19,7 @@ $speech = new SpeechClient([
 ]);
 
 # The name of the audio file to transcribe
-$fileName = __DIR__ . '/resources/test.ogg';
+$fileName = __DIR__ . '/resources/audio.raw';
 
 # The audio file's encoding and sample rate
 $options = [

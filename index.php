@@ -10,6 +10,7 @@ require __DIR__ . '/speech.php';
     <link rel="stylesheet" type="text/css" href="lib/css/style.css">
 </head>
 <body>
+
 <script src="https://widget.flow.ai/w/YWM3YzJjMGYtYWQxMi00M2E5LTk3MzctZGQ1MDFhNWNjMTEyfDZmMDdjMTA3LThkNzItNDQwMS1hM2VkLTc0NDE0MWU4YTY0OA==/flow-webclient-1.1.2.min.js"></script>
 <script src="main.js"></script>
 </body>
@@ -18,3 +19,6 @@ require __DIR__ . '/speech.php';
 
 <button class=button type="button">Neem op</button>
 
+</body>
+<script src="main.js"></script>
+</html>
