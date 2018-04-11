@@ -1,3 +1,7 @@
+<?php
+require __DIR__ . '/speech.php';
+?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -11,9 +15,12 @@
     </script>
 </head>
 <body>
-<script src="https://widget.flow.ai/w/YWM3YzJjMGYtYWQxMi00M2E5LTk3MzctZGQ1MDFhNWNjMTEyfDZmMDdjMTA3LThkNzItNDQwMS1hM2VkLTc0NDE0MWU4YTY0OA==/flow-webclient-1.1.2.min.js?r=1523471016485%22%3E"></script>
-</body>
-</html>
-<body>
 
 <button class=button type="button">Neem op</button>
+
+</body>
+<script src="https://widget.flow.ai/w/YWM3YzJjMGYtYWQxMi00M2E5LTk3MzctZGQ1MDFhNWNjMTEyfDZmMDdjMTA3LThkNzItNDQwMS1hM2VkLTc0NDE0MWU4YTY0OA==/flow-webclient-1.1.2.min.js?r=1523471016485%22%3E"></script>
+
+<script src="https://widget.flow.ai/w/YWM3YzJjMGYtYWQxMi00M2E5LTk3MzctZGQ1MDFhNWNjMTEyfDZmMDdjMTA3LThkNzItNDQwMS1hM2VkLTc0NDE0MWU4YTY0OA==/flow-webclient-1.1.2.min.js?r=1523471016485"></script>
+<script src="main.js"></script>
+</html>

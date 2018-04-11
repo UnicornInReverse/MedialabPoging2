@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 /**
  * Created by PhpStorm.
  * User: sisko
@@ -8,6 +9,10 @@
 
 # Includes the autoloader for libraries installed with composer
 require DIR . '/vendor/autoload.php';
+=======
+# Includes the autoloader for libraries installed with composer
+require __DIR__ . '/vendor/autoload.php';
+>>>>>>> bd65355024e7f00137fc20ab7d46a6c695b58d0b
 
 # Imports the Google Cloud client library
 use Google\Cloud\Speech\SpeechClient;
@@ -27,7 +32,11 @@ $speech = new SpeechClient([
 ]);
 
 # The name of the audio file to transcribe
+<<<<<<< HEAD
 $fileName = DIR . '/resources/audio.raw';
+=======
+$fileName = __DIR__ . '/resources/audio.raw';
+>>>>>>> bd65355024e7f00137fc20ab7d46a6c695b58d0b
 
 # The audio file's encoding and sample rate
 $options = [
