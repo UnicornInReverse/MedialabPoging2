@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medialab-197412",
+  "private_key_id": "01ecf405dd3d80252c350d79474ea4769f16689f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCFuCqRkxz2fIQo\nxnzsqjg77dmzaCTtxVRmClu1xAEIG+4TCTN7aqJY8p1YKOeZb+IqCnZYBHO6itbb\nu9if9N/RewBhTmKUY1BeSBMoHVuCB8ucbXWyJReluCVP6WxPu6XxlAexU9dpgJcg\nYVvLdq7lvDwLHeow8JWXo/W2jOwcDFYhJfavrOawZ/Ehz8Ji2oE8VhL3/gbfPhlN\nLpOhvLG4mlBe+5fNrRlVDPNVpZthyr+YvzQ7SYpmngYasUGtYlvd1PQ1catIPH06\nTOA/JXPJTTIFu6SuQ+VkR9OjwJADsdXolj94x/V+Sme511AAunWuA9e8pm3oCilU\npHm5JuTBAgMBAAECggEAESbdjPUsCKDRmeJV2Ux/MI6ydyzzWa1PRVRsTY0R3c6p\nU7dBK4Iyx0p9bLa4eEmt3psfcWxGxOV0qFQ4tdHE2LuYgaK6idKQVzuS+3kCiRQD\nZbHzoBFabmcHoC+udS66WxmUAAajUZTNLbnXOqqjRfQGVp20cakWYxBEnvEGAxXR\ninpM5zfmsppu6IIwC3hmFusqZ4LIpPoxdxl9ODMOFIS1WLFazzz4zm+PCyMxjR7X\nDHjbRMjL1rZjyiQoXX0oC9aT7GGDAFx3MdEZSeXi/ICZqUx6PoNODssjfDidkJbb\n8sqFR1w2sxOwAefqPS1Cu6GkEMQLVNI+AvOKbbP5LQKBgQC5C+P8UjDulFDVT9Vl\n62gA+lmFxT+rdQaetXZQnLqd8rSTENaAr7SCOTgLZ6Ade6ADOpfruGPFG2SSL3Kb\ncMJG26Z5WMh6ed9VWaWBIkYV5QkxpoZigXrTMCISqK5KHAu0uByTy9SWd40mH5n+\nBLTiTcpJ/V+LnqSmUoB1uMeaRQKBgQC4/gbJnbltTWnT5funYpSpEjCGoU6Yc3jP\nogHAbdf5bbH4+2Gb6CihHZJVzsi9Ji0LjX0d5wyzp0NlVKs5PyzWU+RosptG522b\nSa/L3MkMP8aeiQ/r0Q7SoQNLdv+7vwa4MEkvu7xwVoIVHVoaH01dcipxWDA3R2wj\n9vCXRG5mTQKBgQCKHRDeHC5/c93dSIfbWVe4GyNET9PU0jTNsl0Lj99N0n/qoI+p\nXvtYkwJ8qKx+NO5aWppXirmUvXxUC+v7jq7CmmDng1em6l3B43Y/KuiqoNc64rK8\nxS16gRt9V782ezZVfXF+8ozKfZKxWLbkPHkRy8Pnc6CjohX8Oem9c9wvDQKBgQCI\nRD6VtwQGupZwyyETTG97FvX9xcaST8S3FXw61e7YQfBuGiXtZRbAj3rikD6X7g4S\nS3fVVgOqNlRTyQmTUrDhc8x1PtNYaFL5p07CWXES/8t7rjS3HTjQ+F/n79Ey5+S4\nOoE+kwicq2yIxyU+xr4DTnxrH23s2kSTPWw90N+NpQKBgF6+PlOVDkSCV8N5PBA4\nbmAYmrpwCnGxACWXpkwt8C2CpI6TV5+AH+VEX6xlQ+hS5OHwlCRp6PE9D/WSGF8a\n0oo5q6e52SDjiA27UMwY8gMlgAcDEIK+hImWZbNP1jLg523MpI5ttDxlC1Y5b9ah\n9hTfoFdvgU5PrAGIq59qv6LC\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-j3qak8r1ckuw@medialab-197412.iam.gserviceaccount.com",
+  "client_id": "111866028091415321523",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-j3qak8r1ckuw%40medialab-197412.iam.gserviceaccount.com"
+}
